@@ -1,1 +1,1 @@
-gradlew spotlessCheck test
+./gradlew spotlessCheck test
